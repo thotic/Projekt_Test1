@@ -15,6 +15,8 @@ public class Projekt_Test1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Das ist ein GitHub Test");
+        System.out.println("Remote Änderung");
         System.out.println("Lokale Änderung");
         System.out.println("In GitHub geaendert!!!");
     }
