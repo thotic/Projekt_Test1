@@ -16,7 +16,7 @@ public class Projekt_Test1 {
      */
     public static void main(String[] args) {
         System.out.println("Das ist ein GitHub Test");
-        System.out.println("In GitHub geaendert!!!");
+        System.out.println("Remote Änderung");
     }
     
 }
